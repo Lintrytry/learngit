@@ -1,0 +1,2 @@
+write dont forget  :
+cd /d/GIT/learnlearn/learngit
